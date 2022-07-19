@@ -10,5 +10,5 @@ if(numbers > 99)
 }
 else
 {
-    Console.Writeline(" => Цифры нет");
+    Console.WriteLine(" => Цифры нет");
 }
